@@ -5,3 +5,7 @@
   - name: Install mc
     apt:
       name: mc
+  - name: Install multitail
+    apt:
+      name: multitail
+
